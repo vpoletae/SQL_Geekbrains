@@ -1,1 +1,0 @@
-https://github.com/vpoletae/SQL_Geekbrains/blob/main/HW5.sql
